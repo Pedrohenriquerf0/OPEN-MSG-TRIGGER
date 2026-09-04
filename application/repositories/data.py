@@ -1,0 +1,7 @@
+# VARIAVEIS GLOBAIS
+
+
+MESSAGE = None
+PATH_IMAGE = None
+PATH_XLSX = None
+PATH_JSON = None
